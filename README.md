@@ -15,4 +15,10 @@ Having worked as a research assistant, and taken courses in econometrics, resear
   + [ECO344 (Labour Economics) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO344%20Assignment%201%20Code.do)
   + [ECO334 (Political Economy of Media) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO334%20Data%20Project%202.do)
 
-  
+Courses I have taken where I analyzed data:
+* ECO220Y5 • Introduction to Data Analysis and Applied Econometrics
+* ECO343H5 • Labour Economics and Public Policy
+* ECO344H5 • Labour Economics and Market Frictions
+* POL342H5 • Data Visualization and Analysis for the Social Sciences
+* POL243H5 • Research Methods for Political Science I
+* POL244H5 • Research Methods for Political Science II
