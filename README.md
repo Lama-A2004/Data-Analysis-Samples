@@ -1,7 +1,7 @@
 # Lama Ammane - Data Analysis Portfolio
 
 Hello! My name is Lama, and I'm a 4th-year student at the University of Toronto majoring in Economics and Political Science.
-I am highly passioante about research and data analysis in the social sciences, and have experience working in R and Stata to communicate  findings clearly.
+I am highly passionate about research and data analysis in the social sciences, and have experience working in R and Stata to communicate  findings clearly.
 
 Having worked as a research assistant, and taken courses in econometrics, research methods, research design, I have developed key skills that I hope to employ as a junior research analyst in the future.
 
