@@ -17,6 +17,9 @@ Having worked as a research assistant, and taken courses in econometrics and res
   + [ECO344 (Labour Economics) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO344%20Assignment%201%20Code.do)
   + [ECO334 (Political Economy of Media) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO334%20Data%20Project%202.do)
 
+* Qualtrics Survey - Personal Project
++ [Employment After University Survey](https://qualtricsxmfdqc65lk9.qualtrics.com/jfe/form/SV_9AzXFQo2bkExBum))
+
 Courses I have taken where I analyzed data:
 * ECO220Y5 • Introduction to Data Analysis and Applied Econometrics
 * ECO343H5 • Labour Economics and Public Policy
