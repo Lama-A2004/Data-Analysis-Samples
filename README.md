@@ -16,6 +16,7 @@ Most recently, I worked as a Research Assistant under Dr. Randy Besco at the Uni
   + [Research Assistant - Fall Term Project Stata Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/Lama%20RA%20Paper%20%231%20Code%20(Dec%202025).do)
   + [ECO344 (Labour Economics) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO344%20Assignment%201%20Code.do)
   + [ECO334 (Political Economy of Media) - Stata Assignment Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO334%20Data%20Project%202.do)
+  + [ECO334 (Political Economy of Media) - Stata Assignment 2 Code](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/ECO334%20Data%20Assignment%203.do)
 
 * Qualtrics Survey - Personal Project
   + Employment After University Survey - [Click here to open link](https://qualtricsxmfdqc65lk9.qualtrics.com/jfe/form/SV_9AzXFQo2bkExBum)
