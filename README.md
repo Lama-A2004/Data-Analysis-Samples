@@ -1,9 +1,9 @@
 # Lama Ammane - Data Analysis Portfolio
 
 Hello! My name is Lama Ammane, and I'm a graduate from the University of Toronto, with an Honours Bachelor of Arts in Economics and Political Science.
-I am highly passionate about research and data analysis in the social sciences, and have academic experience working in R and Stata, as well as personal experience with Qualtrics, SPSS, and MS PowerBI.
+I am highly passionate about research and data analysis in the social sciences, and have academic experience working in R and Stata, as well as self-led experience with Qualtrics, SPSS, and MS PowerBI.
 
-Currently, I work as a Research Assistant at my university, where I have gained hands-on experience analyzing survey data. As a student, I have also taken various courses in econometrics and research methods, and have developed key skills that I hope to employ as a junior research analyst in the future.
+Most recently, I worked as a Research Assistant under Dr. Randy Besco at the University of Toronto's Department of Political Science, where I gained hands-on experience analyzing survey data. As a student, I have also taken various courses in econometrics and research methods, and have developed key skills that I hope to employ as a junior research analyst in the future.
 
 * R
   + [POL342 Final Project PDF](https://github.com/Lama-A2004/Data-Analysis-Samples/blob/main/POL342%20Final%20Project%20-%20Lama%20Ammane.pdf)
